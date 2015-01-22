@@ -1,0 +1,5 @@
+source 'http://rubygems.org'
+gem 'trollop'
+gem 'json'
+gem 'httparty'
+gem 'rubyzip'
